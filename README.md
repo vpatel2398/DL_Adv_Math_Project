@@ -9,6 +9,8 @@
 ## Project Glasscheck:
 is a computer vision and deep learning practice that aims to identify and classify humans in images or videos based on whether they are wearing glasses or not.
 
+**Project Part-1 link**: https://vpatel2398.github.io/DL_Adv_Math_Project/
+
 ## Description:
 
 The system takes an input image or video frame as its input and utilizes advanced computer vision algorithms and deep learning models to analyze the visual features of human faces present in the scene. It focuses on detecting the presence of eyeglasses on the faces of individuals.
