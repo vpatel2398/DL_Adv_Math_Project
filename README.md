@@ -1,6 +1,6 @@
 # DL_Adv_Math_Project_final
 
-## Project members:
+## Group-8 Project members:
 1. Yash Suresh Upadhyay -101378657
 2. Vivek Patel - 101432083
 3. Vishal Patel - 101446059
