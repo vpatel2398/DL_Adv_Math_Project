@@ -13,6 +13,8 @@ is a computer vision and deep learning practice that aims to identify and classi
 
 The system takes an input image or video frame as its input and utilizes advanced computer vision algorithms and deep learning models to analyze the visual features of human faces present in the scene. It focuses on detecting the presence of eyeglasses on the faces of individuals.
 
+**Data-link**: https://www.kaggle.com/datasets/jeffheaton/glasses-or-no-glasses
+
 ## The process involves several key steps:
 
 **Face Detection**: The system first identifies and localizes human faces in the input image or frame using a face detection algorithm.
